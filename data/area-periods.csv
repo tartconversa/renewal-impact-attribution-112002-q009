@@ -1,0 +1,5 @@
+area_id,period,residents,service_use,walkability_score,received_at
+A-1,2026-Q1,1240,310,48,2026-04-15
+A-1,2026-Q2,1210,344,52,2026-07-18
+A-2,2026-Q1,980,286,57,2026-04-16
+A-2,2026-Q2,1020,,58,2026-08-03
