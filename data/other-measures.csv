@@ -1,3 +1,5 @@
 measure_id,area_id,type,start_period,end_period
 M-1,A-1,transit_change,2026-Q2,2026-Q3
 M-2,A-2,housing_support,2026-Q1,2026-Q2
+M-3,A-2,transit_change,2026-Q2,2026-Q3
+M-4,A-1,housing_support,2026-Q1,2026-Q2
